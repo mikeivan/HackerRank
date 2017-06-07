@@ -9,3 +9,5 @@
 - third item
 
 ### Difficulties
+
+### Thoughts/Notes
