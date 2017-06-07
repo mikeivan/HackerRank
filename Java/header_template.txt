@@ -1,5 +1,5 @@
 /************
- * Author: Mike Ivan
+ * Author: Michael "Mike" Ivan
  * HackerRank profile: 
  *    https://www.hackerrank.com/mike_ivan
  * GitHub: https://github.com/mikeivan
