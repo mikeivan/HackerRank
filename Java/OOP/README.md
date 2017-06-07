@@ -1,1 +1,1 @@
-Solutions to Object Oriented Programming
+Solutions to Object Oriented Programming Challenges
