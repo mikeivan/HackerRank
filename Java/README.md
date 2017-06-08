@@ -20,3 +20,4 @@ Todo:
 - [ ] Port over Exception Handling code and create READMEs for each
 - [ ] Flesh out Advanced README
 - [ ] Port over Advanced code and create READMEs for each
+- [ ] Add method category to READMEs in Introduction, Strings, BigNumber, and Data Structures
