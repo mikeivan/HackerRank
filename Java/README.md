@@ -14,10 +14,11 @@ Todo:
 - [x] Port over BigNumber code and create READMEs for each
 - [x] Flesh out Data Structures README
 - [x] Port over Data Structures code and create READMEs for each
-- [ ] Flesh out OOP README
-- [ ] Port over OOP code and create READMEs for each
+- [x] Flesh out OOP README
+- [x] Port over OOP code and create READMEs for each
 - [ ] Flesh out Exception Handling README
 - [ ] Port over Exception Handling code and create READMEs for each
 - [ ] Flesh out Advanced README
+- [ ] Finish Advanced challenges - 5 to go
 - [ ] Port over Advanced code and create READMEs for each
 - [ ] Add method category to READMEs in Introduction, Strings, BigNumber, and Data Structures
