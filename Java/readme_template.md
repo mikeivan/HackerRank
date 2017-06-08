@@ -8,6 +8,8 @@
 - second item
 - third item
 
+### Method
+
 ### Difficulties
 
 ### Thoughts/Notes
