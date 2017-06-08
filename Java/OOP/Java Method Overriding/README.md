@@ -1,0 +1,15 @@
+## Java Method
+
+[Link to challenge](https://www.hackerrank.com/challenges/java-method-overriding)
+
+### What I learned
+- first item
+    - elaborate
+- second item
+- third item
+
+### Method
+Simply use @Override and then the new version of the function.
+
+### Difficulties
+None.
