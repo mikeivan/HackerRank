@@ -29,6 +29,12 @@ This was not correct. Also links might have duplicates.
 
 ### Thoughts/Notes
 The visitor pattern part of the problem was simple. Either rename the challenge to Java Trees or
-provide more code for assembling the tree.
+provide more code for assembling the tree or at least describe better what "tree" means and how
+the input describes it.
 
 Also, nodes are counted from 1-n, which means array access needs either index-1 or a size of n+1.
+
+It is possible to construct the tree using only TreeNode and not TreeLeaf and checking if a node
+has 0 children to determine whether it's a leaf or node. This would have simplified the tree 
+construction process, but made the visitors more clunky. Also, probably not in the spirit of the 
+challenge.
