@@ -16,8 +16,8 @@ Todo:
 - [x] Port over Data Structures code and create READMEs for each
 - [x] Flesh out OOP README
 - [x] Port over OOP code and create READMEs for each
-- [ ] Flesh out Exception Handling README
-- [ ] Port over Exception Handling code and create READMEs for each
+- [x] Flesh out Exception Handling README
+- [x] Port over Exception Handling code and create READMEs for each
 - [ ] Flesh out Advanced README
 - [ ] Finish Advanced challenges - 5 to go
 - [ ] Port over Advanced code and create READMEs for each
