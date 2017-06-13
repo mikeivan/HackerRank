@@ -1,6 +1,8 @@
 ## Solutions to Java challenges
 
-All solutions are in Java 7.
+All solutions are in Java 7, unless otherwise noted.
+
+All challenges completed with full points.
 
 Todo:
 - [x] Create Folders
@@ -18,7 +20,6 @@ Todo:
 - [x] Port over OOP code and create READMEs for each
 - [x] Flesh out Exception Handling README
 - [x] Port over Exception Handling code and create READMEs for each
-- [ ] Flesh out Advanced README
-- [ ] Finish Advanced challenges - 5 to go
-- [ ] Port over Advanced code and create READMEs for each
-- [ ] Add method category to READMEs in Introduction, Strings, BigNumber, and Data Structures
+- [x] Flesh out Advanced README
+- [x] Finish Advanced challenges - 5 to go
+- [x] Port over Advanced code and create READMEs for each
