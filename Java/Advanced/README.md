@@ -15,4 +15,4 @@
 | [Covariant Return Types](https://www.hackerrank.com/challenges/java-covariance) | 20 | 20 | Easy |
 | [Java Lambda Expressions](https://www.hackerrank.com/challenges/java-lambda-expressions) | 30 | 30 | Medium |
 | [Java MD5](https://www.hackerrank.com/challenges/java-md5) | 30 | 30 | Medium |
-| [Java SHA-256](https://www.hackerrank.com/challenges/sha-256) | | 30 | Medium |
+| [Java SHA-256](https://www.hackerrank.com/challenges/sha-256) | 30 | 30 | Medium |
